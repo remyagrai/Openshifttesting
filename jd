@@ -1,0 +1,28 @@
+DevOps Engineer: looking for a highly skilled Redhat openshift DevOps Engineer to streamline and automate our software development and deployment processes. The ideal candidate will be responsible for ensuring smooth CI/CD pipelines, managing cloud infrastructure, and optimizing system performance for our financial technology solutions.
+Key Responsibilities:
+CI/CD Implementation & Automation:
+• Design, implement, and maintain CI/CD pipelines for automated builds, testing, and deployments.
+• Work with development teams to integrate code changes smoothly and efficiently.
+Infrastructure as Code (IaC):
+• Use Terraform, Ansible, or similar tools to automate infrastructure provisioning.
+• Manage cloud-based and on-premise infrastructure (AWS, Azure, or GCP).
+Monitoring & Performance Optimization:
+• Set up and manage monitoring tools (Prometheus, Grafana, ELK Stack, etc.).
+• Identify and troubleshoot performance issues to ensure system reliability.
+Security & Compliance:
+• Implement security best practices in cloud and on-prem environments.
+• Conduct regular audits to ensure compliance with industry standards.
+Collaboration & Support:
+• Work closely with developers, QA, and IT teams to optimize workflows.
+• Provide support for production and non-production environments.
+Required Skills & Qualifications:
+Technical Skills:
+• Hands-on experience with CI/CD tools (Jenkins, GitHub Actions, GitLab CI/CD).
+• Strong knowledge of Kubernetes, Docker, and containerization.
+• Expertise in cloud platforms (AWS, Azure, or GCP).
+• Proficiency in scripting (Bash, Python, or Shell).
+• Experience with Infrastructure as Code (Terraform, Ansible, CloudFormation).
+• Knowledge of logging and monitoring tools (Splunk, ELK Stack, Prometheus).
+Soft Skills:
+• Strong problem-solving abilities and analytical thinking.
+• Excellent communication and teamwork skills.
